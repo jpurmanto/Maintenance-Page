@@ -1,1 +1,1 @@
-docker run -d --name nginx -v .:/usr/share/nginx/html -p 80:80 nginx
+docker run -d --name mntnc -v .:/usr/share/nginx/html -p 80:80 nginx
